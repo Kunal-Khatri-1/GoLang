@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// var jwtToken := 300000 => not allowed to use walrus operator outside method
+// jwtToken := 300000 => not allowed to use walrus operator outside method
 // var jwtToken = 300000 => allowed
 // var jwtToken int = 300000 => allowed
 
