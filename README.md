@@ -71,3 +71,4 @@
 - ### if-else statements
 - ### switch-case
 - ### Loops
+- ### Functions
