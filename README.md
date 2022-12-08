@@ -1,4 +1,4 @@
-# Become a GoFer
+# Introduction to GoLang
 
 ## Intro
 
@@ -40,3 +40,6 @@
       - First letter defines if the thing is public or private
   - Variable type should be known in advance
   - Everything is a Type
+  - #### Simple Types
+
+# Basics of GoLang
