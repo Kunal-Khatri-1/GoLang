@@ -68,4 +68,5 @@
 
 # Flow Control
 
-- if-else statements
+- ### if-else statements
+- ### switch-case
