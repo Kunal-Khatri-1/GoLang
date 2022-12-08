@@ -54,3 +54,5 @@
   - ### Pointers
     - There is a problem that exist in all the programming languages, whenever variable, array etc are declared are just a reference of the memory. Values put inside these variables and constants, they get stored in some memory. Sometimes when passing these variables into functions, classes and objects, there is a problem that these variables actually not get passed along. A copy of the variable is created and that copy is passed into the functions. This creates some irregularities in the program. To avoid these irregularities, we have.... POINTERS.
     - Pointers gives the surety that whatever the resource is being passed as a pointer. Instead of passing variables, passing memory address of these variables. It makes it 100% guaranteed that whatever is being passed is the actual value from the memory.
+  - ### Array
+    - Surprizingly arrays are used very less in golang
