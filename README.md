@@ -56,3 +56,9 @@
     - Pointers gives the surety that whatever the resource is being passed as a pointer. Instead of passing variables, passing memory address of these variables. It makes it 100% guaranteed that whatever is being passed is the actual value from the memory.
   - ### Array
     - Surprizingly arrays are used very less in golang
+  - ### Slices
+    - Slices are powerful and most used datatype in golang
+    - Slices under the hood are arrays
+    - Arrays get some abstraction layer and some more features => Slices
+  - ### Maps
+    - key-value pair datatypes
