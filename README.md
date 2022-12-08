@@ -72,3 +72,4 @@
 - ### switch-case
 - ### Loops
 - ### Functions
+- ### Methods
