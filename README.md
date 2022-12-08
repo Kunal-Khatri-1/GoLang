@@ -61,4 +61,11 @@
     - Slices under the hood are arrays
     - Arrays get some abstraction layer and some more features => Slices
   - ### Maps
-    - key-value pair datatypes
+    - Key-value pair datatypes
+  - ### Structs
+    - Alternate versions of classes
+      - we don't have classes in golang
+
+# Flow Control
+
+- if-else statements
