@@ -68,11 +68,15 @@
 
 # Flow Control
 
-- ### if-else statements
-- ### switch-case
-- ### Loops
-- ### Functions
-- ### Methods
-- ### Defer
+- ## if-else statements
+- ## switch-case
+- ## Loops
+- ## Functions
+- ## Methods
+- ## Defer
   - Whenever a function executes, it executes line by line. As soon as defer is put, whatever is the next statement will be omitted and will be executed at the very end (before the function returns) of the function, in the reverse order they were deffered (LIFO)
-- ### Working with Files
+- ## Working with Files
+
+# Web and Modules
+
+- ## Handling Web Requests
